@@ -1,0 +1,30 @@
+Added Component: Designator=C1(CAPC1005X55N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GCM155R71H104KE37D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GCM155R71H104KE37D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005-2 MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GCM155R71H104KE37D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1005X55N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GCM155R71H104KE37D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GCM155R71H104KE37D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005-2 MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GCM155R71H104KE37D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(TE_640456-2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/640456-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "640456-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/640456-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=+12V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 GCM155R71H104KE37D
+Added Member To Class: ClassName=Sheet1 Member=Component C2 GCM155R71H104KE37D
+Added Member To Class: ClassName=Sheet1 Member=Component J1 640456-2
